@@ -2,14 +2,14 @@
 
 I'm a software developer interested in building backend systems, specially with Spring Boot and the broader Java ecosystem.
 
+This repository is my personal space for learning, experimenting and documenting what I learn, which often turns into articles on Medium.
+
 
 ## 🛠️ Technologies 
-* ☕ [Java] * 🌱 [Spring Boot] * 📦 [Podman] * 🔄 [Kafka] * 🔍[Solr] * 🤖 [Ollama] * 🧪 [JMeter] * 📊 [Prometheus] * 📈[Grafana] * 🍃 [MongoDB]
+* ☕ [Java] * 🌱 [Spring Boot] * 📦 [Podman] * 🔄 [Kafka] * 🔍[Solr] * 🦙 [Ollama] * 🧪 [JMeter] * 📊 [Prometheus] * 📈[Grafana] * 🗄️ [MongoDB]
 
 
-
-
-## 📝 Articles
+## 📝 Latest Articles
 
 ### 🤖 How to Implement Semantic Search with Ollama, Spring Boot and Solr: A Comprehensive Tutorial
 
@@ -21,25 +21,15 @@ I'm a software developer interested in building backend systems, specially with 
     /> 
 </a>
 
+### 🔄 Building an Idempotent Kafka Consumer with Spring Boot and Apache Solr: A Practical Approach
 
-
-
-
-
-<!--
-**mpedroza-mx/mpedroza-mx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://medium.com/@mpedroza-mx/building-an-idempotent-kafka-consumer-with-spring-boot-and-apache-solr-a-practical-approach-3e284d108c87">
+    <img 
+        src="assets/SearchPlatformGeneralViewDesignIdempotentConsumer.svg"
+        width="1435"
+        alt="Building an Idempotent Kafka Consumer with Spring Boot and Apache Solr: A Practical Approach"
+    /> 
+</a>
 
 
 [Java]: https://www.java.com/
