@@ -21,6 +21,8 @@ This repository is my personal space for learning, experimenting and documenting
     /> 
 </a>
 
+---
+
 ### 🔄 Building an Idempotent Kafka Consumer with Spring Boot and Apache Solr: A Practical Approach
 
 <a href="https://medium.com/@mpedroza-mx/building-an-idempotent-kafka-consumer-with-spring-boot-and-apache-solr-a-practical-approach-3e284d108c87">
