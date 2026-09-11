@@ -11,6 +11,18 @@ This repository is my personal space for learning, experimenting and documenting
 
 ## 📝 Latest Articles
 
+### 🤖 Building a Local RAG System with Spring Boot, Ollama and Apache Solr: A Practical Guide Approach
+
+<a href="https://medium.com/@mpedroza-mx/building-a-local-rag-system-with-spring-boot-ollama-and-apache-solr-a-practical-guide-approach-306106df8bd5">
+    <img 
+        src="assets/RAG Flow.svg"
+        width="1435"
+        alt="Building a Local RAG System with Spring Boot, Ollama and Apache Solr: A Practical Guide Approach"
+    /> 
+</a>
+
+---
+
 ### 🤖 How to Implement Semantic Search with Ollama, Spring Boot and Solr: A Comprehensive Tutorial
 
 <a href="https://medium.com/@mpedroza-mx/how-to-implement-semantic-search-with-ollama-spring-boot-and-solr-a-comprehensive-tutorial-9ab5910a3e26">
