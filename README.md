@@ -15,7 +15,7 @@ This repository is my personal space for learning, experimenting and documenting
 
 <a href="https://medium.com/@mpedroza-mx/building-a-high-performance-event-driven-rate-limiter-with-openresty-valkey-redis-prometheus-ec2c42a9c398?sharedUserId=mpedroza-mx">
     <img 
-        src="assets/RateLimiterHighLevelDiagram.svg"
+        src="assets/RateLimiterHighLevelDiagram.gif"
         width="1435"
         alt="Building a High-Performance Event-Driven Rate Limiter with OpenResty, Valkey(Redis) & Prometheus"
     /> 
