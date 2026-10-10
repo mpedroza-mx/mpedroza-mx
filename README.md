@@ -11,6 +11,18 @@ This repository is my personal space for learning, experimenting and documenting
 
 ## 📝 Latest Articles
 
+### 🛡️ Spring Boot Kafka Lister Throttling: Safeguarding your Downstream Service
+
+<a href="https://medium.com/@mpedroza-mx/spring-boot-kafka-consumer-throttling-safeguarding-your-downstream-service-460af92bc206?sharedUserId=mpedroza-mx">
+    <img 
+        src="assets/KafkaConsumerThrottling.gif"
+        width="1435"
+        alt="Spring Boot Kafka Lister Throttling: Safeguarding your Downstream Service"
+    /> 
+</a>
+
+---
+
 ### 🛡️ Building a High-Performance Event-Driven Rate Limiter with OpenResty, Valkey(Redis) & Prometheus
 
 <a href="https://medium.com/@mpedroza-mx/building-a-high-performance-event-driven-rate-limiter-with-openresty-valkey-redis-prometheus-ec2c42a9c398?sharedUserId=mpedroza-mx">
