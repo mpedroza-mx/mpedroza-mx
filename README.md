@@ -11,7 +11,7 @@ This repository is my personal space for learning, experimenting and documenting
 
 ## 📝 Latest Articles
 
-### 🛡️ Spring Boot Kafka Lister Throttling: Safeguarding your Downstream Service
+### 🛡️ Spring Boot Kafka Listener Throttling: Safeguarding your Downstream Service
 
 <a href="https://medium.com/@mpedroza-mx/spring-boot-kafka-consumer-throttling-safeguarding-your-downstream-service-460af92bc206?sharedUserId=mpedroza-mx">
     <img 
