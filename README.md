@@ -6,10 +6,22 @@ This repository is my personal space for learning, experimenting and documenting
 
 
 ## 🛠️ Technologies 
-* ☕ [Java] * 🌱 [Spring Boot] * 📦 [Podman] * 🔄 [Kafka] * 🔍[Solr] * 🦙 [Ollama] * 🧪 [JMeter] * 📊 [Prometheus] * 📈[Grafana] * 🗄️ [MongoDB]
+* ☕ [Java] * 🌱 [Spring Boot] * 📦 [Podman] * 🔄 [Kafka] * 🔍[Solr] * 🦙 [Ollama] * 🧪 [JMeter] * 📊 [Prometheus] * 📈[Grafana] * 🗄️ [MongoDB] * 🕵️‍♀ [Cline]
 
 
 ## 📝 Latest Articles
+
+### 🕵️‍♀️ Prevent Secrets Exposure to AI Agents: A Wrapper Approach
+
+<a href="https://medium.com/@mpedroza-mx/prevent-secrets-exposure-to-ai-agents-a-wrapper-approach-ee12f13fe2fb?sharedUserId=mpedroza-mx">
+    <img 
+        src="assets/Cline_Wrapper_High_Level.gif"
+        width="1435"
+        alt="Prevent Secrets Exposure to AI Agents: A Wrapper Approach"
+    /> 
+</a>
+
+---
 
 ### 🛡️ Spring Boot Kafka Listener Throttling: Safeguarding your Downstream Service
 
@@ -80,3 +92,4 @@ This repository is my personal space for learning, experimenting and documenting
 [Prometheus]: https://prometheus.io/
 [Grafana]: https://grafana.com/
 [MongoDB]: https://www.mongodb.com/
+[Cline]: https://cline.bot/
